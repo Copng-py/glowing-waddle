@@ -1,7 +1,7 @@
 # Sentiment analysis
 
 > **Note**
-> `Text Normalization`, `WordCloud`, `Opinion Mining`
+> `Normalization`, `WordCloud`, `Opinion Mining`
  
 > The dataset available on [Kaggle Pages](https://www.kaggle.com/datasets/thedevastator/facebook-posts-of-amazon-tourism).
 
